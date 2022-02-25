@@ -1,3 +1,3 @@
-# Hangman-game
+# Python Hangman 
 
-Juego del ahorcado con Python
+A game made in python 3
